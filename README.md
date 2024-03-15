@@ -1,4 +1,4 @@
-# EV-DATA-SET
+# Electric Vehicle 
 Imagine a car powered by electricity instead of gasoline. That's an electric vehicle (EV)!  These vehicles use electric motors and can be charged in different ways: by plugging into an external power source or using a battery.  This battery can even be charged by the sun through solar panels, or by converting fuel like gasoline into electricity with a generator or fuel cell.
 
 Electric vehicles aren't new. They were actually popular in the 1800s because they were quiet and easy to drive compared to the early gasoline cars.  However, gasoline engines became more common for cars and trucks in the 20th century due to limitations in battery technology.
